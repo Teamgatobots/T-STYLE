@@ -1,4 +1,4 @@
-# CODED BY HUNTERBOY ALAMIN
+no# CODED BY HUNTERBOY ALAMIN
 # DO NOT COPY THIS FILE
 # FACEBOOK : MD ALAMIN KHAM
 # DO NOT TRY CO EDIT THIS FILE
@@ -45,7 +45,7 @@ echo """
 echo ' '
 date | lolcat
 echo ' '
-echo -e "        ╔════════════════════════════════════════════╗ \n        ║           POWERED BY THE HUNTERBOY         ║ \n        ╚════════════════════════════════════════════╝" | lolcat
+echo -e "        ╔════════════════════════════════════════════╗ \n        ║           OFC SAUL HUILLCA LAYME           ║ \n        ╚════════════════════════════════════════════╝" | lolcat
 echo ' '
 echo ' '
 # Default command line prompt.
